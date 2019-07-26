@@ -10,5 +10,7 @@ In order to run this program you need to have the following programs, languages,
   * Plotly | https://plot.ly/python/getting-started/
   * Calendar
   * SQLite3
+  
+Once everything is properly installed, enter the [jupyter notebook] command in your Terminal/Console to initiate the notebook, then proceed to choose the cfb_outcomes folder and from there the cfb_predict.ipynb file. Once in the notebook, restart the kernel and run all cells. 
 
 Feel free to reach out to me with any questions or troubles.
